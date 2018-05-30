@@ -10,8 +10,8 @@ O objetivo do trabalho prático é desenvolver um projeto para um sistema propos
 ### Trabalho Prático (03/05/18)
 1. Cada integrante deve escolher um casos de uso PEN e descrever os seus cenários (principal, alternativo e de exceção) usando um diagrama de atividades para cada cenário.
 2. Após a descrição dos cenários, cada integrante deve criar um modelo conceitual para o seu caso de uso, observando:
-   1. deve ser gerado um diagrama para cada caso de uso com todas as classes necessárias para sua realização;
-   2. não há problema em aparecer classes repetidas em diferentes diagramas, desde que esteja consistente.
+   - deve ser gerado um diagrama para cada caso de uso com todas as classes necessárias para sua realização;
+   - não há problema em aparecer classes repetidas em diferentes diagramas, desde que esteja consistente.
 
 ### Trabalho Prático (??/06/18)
 1. Cada aluno deve pegar o caso de uso apresentado no trabalho, fazer as melhorias/correções pedidas e refiná-lo para um caso de uso concreto, incluindo os respectivos wireframes.
